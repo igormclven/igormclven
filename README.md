@@ -1,6 +1,6 @@
 ## Hey! 👋 Soy Mauricio  <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-#####Desarrollador frontend, diseñador, y experto en Sistemas Operativos.
+####Desarrollador frontend, diseñador, y experto en Sistemas Operativos.
 
 ### Contáctame
 
