@@ -1,6 +1,10 @@
 ## Hey! 👋 Soy Mauricio  <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-#### Desarrollador Full Stack, con enfoque DevOps y dirección de equipos.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?%20%20font=Poppins&size=42&duration=3250&pause=1000&color=8f2d56&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Project+Manager;%2B5+Years+Of+Coding" alt="" />
+</p>
+
+#### Desarrollador Full Stack, experto en infraestructura en la nube y dirección de Proyectos.
 
 ### Contáctame
 
@@ -53,10 +57,9 @@
 
 Muchísimas más en el registro de actividad de Github más abajo :3
 
-[![igor Stats](https://github-readme-stats.vercel.app/api?username=igormclven&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=igormclven&theme=whatsapp-dark&locale=es)](https://github.com/igormclven)
 
-
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=igormclven&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=igormclven&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/igormclven)
 
 
 [linkedin]: https://www.linkedin.com/in/mauriciora/
