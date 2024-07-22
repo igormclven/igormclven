@@ -1,67 +1,99 @@
-## Hey! 👋 Soy Mauricio  <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hello, I'm Mao! <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?%20%20font=Poppins&size=42&duration=3250&pause=1000&color=8f2d56&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Project+Manager;%2B5+Years+Of+Coding" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Infrastructure+Expert;Project+Management+Professional" alt="Typing SVG" />
 </p>
 
-#### Desarrollador Full Stack, experto en infraestructura en la nube y dirección de Proyectos.
+<h2>👨‍💻 About Me</h2>
 
-### Contáctame
+Full stack developer, expert in cloud infrastructure and project management.
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+<h2>🛠️ Languages and Tools</h2>
 
-<br />
-<br />
+<p align="center">
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+    <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>
+  </a>
+   <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  alt="TypeScript" width="40" height="40"/>
+  </a>
+      <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="JavaScript" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Go" width="40" height="40"/>
+  </a>
+</p>
 
-#### Lenguajes:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][github]
+<p align="center">
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  </a>
+    <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  alt="Flask" width="40" height="40"/>
+  </a>
+   <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  alt="Django" width="40" height="40"/>
+  </a>
+      <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Go" width="40" height="40"/>
+  </a>
+</p>
 
-<br/>  
+<p align="center">
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
+  </a>
+    <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  alt="Mysql" width="40" height="40"/>
+  </a>
+   <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"  alt="Oracle" width="40" height="40"/>
+  </a>
+      <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" title="DynamoDB" alt="Go" width="40" height="40"/>
+  </a>
+</p>
 
-#### Frameworks/Platforms:
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">][github]
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][github]
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][github]
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][github]
-<br/> 
+<p align="center">
+  <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+    <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="GCP" width="40" height="40"/>
+  </a>
+   <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  alt="Docker" width="40" height="40"/>
+  </a>
+      <a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="MongoDB" alt="Go" width="40" height="40"/>
+  </a>
+</p>
 
-#### Data: 
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">][github]
-[<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][github]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
+<h2>📫 Connect with me</h2>
 
-<br />
+<p align="center">
+  <a href="https://linkedin.com/in/mauriciorianoa" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="your_linkedin" height="30" width="40" /></a>
+</p>
 
-#### Herramientas:
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<br/ >
-
-### Infra:
-[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][github]
-[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
-
-
-<br />
-<br />
-
-### :zap: Mis Stats (Públicas) :3
-
-Muchísimas más en el registro de actividad de Github más abajo :3
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=igormclven&theme=whatsapp-dark&locale=es)](https://github.com/igormclven)
-
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=igormclven&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/igormclven)
-
-
-[linkedin]: https://www.linkedin.com/in/mauriciora/
-[gmail]:mailto:igormclven@gmail.com
-[github]:https://github.com/igormclven
