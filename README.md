@@ -94,6 +94,6 @@ Full stack developer, expert in cloud infrastructure and project management.
 <h2>📫 Connect with me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mauriciorianoa" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="your_linkedin" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mauriciora" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="your_linkedin" height="30" width="40" /></a>
 </p>
 
